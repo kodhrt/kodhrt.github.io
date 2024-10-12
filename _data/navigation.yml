@@ -1,0 +1,12 @@
+main:
+  - title: "Profile"
+    url: /profile
+
+  - title: "Skills"
+    url: /skills
+
+  - title: "Researches"
+    url: /researches
+
+  - title: "Remakes"
+    url: /remakes
