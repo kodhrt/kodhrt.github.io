@@ -29,7 +29,7 @@ Informatics -->
     <!-- 他の情報もここに追加 -->
   </div>
   <div class="profile-image">
-    <img src="./assets/img/profile.jpg" alt="プロフィール写真" />
+    <img src="./assets/img/others/profile.jpg" alt="プロフィール写真" />
   </div>
 </div>
 <style>
