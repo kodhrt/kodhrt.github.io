@@ -1,6 +1,6 @@
 main:
   - title: "Profile"
-    url: /profile
+    url: /myself
 
   - title: "Skills"
     url: /skills
