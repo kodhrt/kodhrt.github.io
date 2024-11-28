@@ -5,7 +5,7 @@ permalink: /skills
 ---
 
 <div class="certificates_main">
-    CERTIFICATES
+    資格・試験
 </div>
 
 <div class="certificate_container">
