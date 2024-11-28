@@ -15,7 +15,14 @@ excerpt: "Welcome to My Portfolio."
 author_profile: true # これを追加
 ---
 
-# 自己紹介
+# About this site
+本Webサイトは、ポートフォリオとして自身のスキルや成果物をまとめるために作成されたものです。
+なお、本サイトは「jekyll」という静的サイトジェネレーターで作成されています。
+
+# About me
 情報系の学部に所属する大学生です。
 画像生成AIを用いたファッションコーディネート推薦に関する研究をおこなっています。
 詳しいプロフィールについては[こちら](/myself)
+## [Skills](/skills)
+## [Researches](/researches)
+## [Remakes](/remakes)
