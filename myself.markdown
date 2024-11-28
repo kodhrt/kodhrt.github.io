@@ -29,7 +29,7 @@ Informatics -->
     <!-- 他の情報もここに追加 -->
   </div>
   <div class="profile-image">
-    <img src="../assets/img/others/profile_image.png" alt="プロフィール写真" />
+    <img src="../assets/img/others/profile.jpg" alt="プロフィール写真" />
   </div>
 </div>
 <style>
@@ -52,7 +52,7 @@ Informatics -->
     }
 
     .profile-image img {
-    max-width: 150%;
+    max-width: 180%;
     height: auto;
     <!-- border-radius: 10px; /* 写真の角を丸める場合 */ -->
     }
