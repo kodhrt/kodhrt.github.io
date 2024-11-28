@@ -4,11 +4,13 @@ title: Remakes
 permalink: /remakes
 # header:
 ---
-
+<!-- 
 I create various works as a clothing remake artist under the name '**hearerta**'.\\
- For more details, please visit my [Instagram](https://www.instagram.com/hearerta.39/).
+ For more details, please visit my [Instagram](https://www.instagram.com/hearerta.39/). -->
 
-Here are some works...
+「hearerta」という名前で、服のリメイクもおこなっています。
+[Instagram](https://www.instagram.com/hearerta.39/) にて、ぜひ作品をご覧になってください。
+
 
 <div class="image_grid">
     <img src="./assets/img/remakes/23.jpg" alt="Image 1">
