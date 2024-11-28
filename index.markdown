@@ -23,6 +23,6 @@ author_profile: true # これを追加
 情報系の学部に所属する大学生です。
 画像生成AIを用いたファッションコーディネート推薦に関する研究をおこなっています。
 詳しいプロフィールについては[こちら](/myself)
-## [Skills](/skills)
-## [Researches](/researches)
-## [Remakes](/remakes)
+- [スキル](/skills)
+- [研究](/researches)
+- [創作活動](/remakes)
