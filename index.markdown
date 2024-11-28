@@ -15,4 +15,7 @@ excerpt: "Welcome to My Portfolio."
 author_profile: true # これを追加
 ---
 
-
+# 自己紹介
+情報系の学部に所属する大学生です。
+画像生成AIを用いたファッションコーディネート推薦に関する研究をおこなっています。
+詳しいプロフィールについては[こちら](/myself)

@@ -1,6 +1,6 @@
 ---
 layout: single
-# title: Skills
+title: Skills
 permalink: /skills
 ---
 
