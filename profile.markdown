@@ -52,7 +52,7 @@ Informatics -->
     }
 
     .profile-image img {
-    max-width: 150%;
+    max-width: 180%;
     height: auto;
     <!-- border-radius: 10px; /* 写真の角を丸める場合 */ -->
     }
