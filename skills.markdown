@@ -25,6 +25,7 @@ permalink: /skills
 </div>
 </div>
 
+
 <style>
     .certificate_container {
         display: grid;
