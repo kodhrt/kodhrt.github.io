@@ -13,6 +13,8 @@ I create various works as a clothing remake artist under the name '**hearerta**'
 
 
 <div class="image_grid">
+    <img src="./assets/img/remakes/25.jpg" alt="Image 1">
+    <img src="./assets/img/remakes/24.jpg" alt="Image 1">
     <img src="./assets/img/remakes/23.jpg" alt="Image 1">
     <img src="./assets/img/remakes/22.jpg" alt="Image 1">
     <img src="./assets/img/remakes/21.PNG" alt="Image 1">
