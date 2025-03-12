@@ -24,3 +24,7 @@ author_profile: true # これを追加
 - [スキル](/skills)
 - [研究](/researches)
 - [創作活動](/remakes)
+
+# Contact
+メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
+※（a）を@に変更してください。
