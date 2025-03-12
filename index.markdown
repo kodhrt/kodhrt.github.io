@@ -20,8 +20,7 @@ author_profile: true # これを追加
 
 # About me
 静岡大学情報学部行動情報学科4年の大江 優真（おおえ ゆうま）です。画像生成AIを用いたファッションコーディネート推薦に関する研究をしています。趣味は服のリメイク、喫茶店探し、ひとり旅です。  
-詳しいプロフィールについては[こちら](/myself)。  
-所属する研究室の公式サイトは[こちら](https://shoji-lab.github.io/)
+所属する研究室の公式サイトは[こちら](https://shoji-lab.github.io/)。
 
 # Contact
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
