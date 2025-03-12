@@ -24,6 +24,7 @@ author_profile: true # これを追加
 - [スキル](/skills)
 - [研究](/researches)
 - [創作活動](/remakes)
+所属する研究室の公式サイトは[こちら](https://shoji-lab.github.io/)
 
 # Contact
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
