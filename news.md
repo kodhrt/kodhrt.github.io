@@ -4,6 +4,9 @@ title: "News"
 permalink: /news/
 ---
 
+※カテゴリ毎にニュースを表示する機能は実装前です。  
+お待ちください。
+
 <div class="news-list">
   {% for post in site.posts %}
     {% if post.categories contains 'news' %}
