@@ -15,12 +15,12 @@ excerpt: "Welcome to My Portfolio."
 author_profile: true # これを追加
 ---
 
-# About this site
-本Webサイトは、ポートフォリオとして自身のスキルや成果物をまとめるために作成されたものです。なお、本Webサイトは「jekyll」という静的サイトジェネレーターで作成されています。
-
 # About me
 静岡大学情報学部行動情報学科4年の大江 優真（おおえ ゆうま）です。画像生成AIを用いたファッションコーディネート推薦に関する研究をしています。趣味は服のリメイク、喫茶店探し、ひとり旅です。  
 所属する研究室の公式サイトは[こちら](https://shoji-lab.github.io/)。
+
+# About this site
+本Webサイトは、ポートフォリオとして自身のスキルや成果物をまとめるために作成されたものです。本Webサイトは「jekyll」という静的サイトジェネレーターで作成されています。
 
 # Contact
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  

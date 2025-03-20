@@ -4,11 +4,32 @@ title: Skills
 permalink: /skills
 ---
 
-<div class="certificates_main">
+<!-- <div class="certificates_main">
     資格・試験
-</div>
+</div> -->
 
-<div class="certificate_container">
+## 資格・試験
+
+1. ## 応用情報技術者試験（AP）合格
+2023年12月
+
+2. ## 基本情報技術者試験（FP）合格
+2023年5月
+
+3. ## TOEIC L&R Score 880
+2022年2月
+
+## 成果物
+
+1. ポートフォリオWebサイト
+静的サイトジェネレーター「Jekyll」を学習する目的で作成。  
+（[本サイト](https://kodhrt.github.io/)）
+
+2. 静岡大学莊司研究室Webサイト
+所属研究室のWeb係として作成、運用を担当。  
+研究室のWebサイトは[こちら](https://shoji-lab.github.io/)
+
+<!-- <div class="certificate_container">
 <div class="certificate_box">   
     <h2>応用情報技術者試験（AP）合格</h2>
     <div class="date">December 2023</div>
@@ -23,19 +44,11 @@ permalink: /skills
     <h2>TOEIC L&R Score 880</h2>
     <div class="date">February 2022</div>
 </div>
-</div>
+</div> -->
 
 
-<div class="certificates_main">
-    成果物
-</div>
 
-<div class="certificate_box">
-    <h2>TOEIC L&R Score 880</h2>
-    <div class="date">February 2022</div>
-</div>
-
-<style>
+<!-- <style>
     .certificate_container {
         display: grid;
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* 各要素を最小250px、最大1frで配置 */
@@ -60,4 +73,4 @@ permalink: /skills
         margin: 0;
         font-size: 0.5em; 
     }
-</style>
+</style> -->
