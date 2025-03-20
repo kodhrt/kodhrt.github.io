@@ -2,14 +2,14 @@ main:
   - title: "Profile"
     url: /myself
 
-  - title: "Skills"
-    url: /skills
-
   - title: "Researches"
     url: /researches
 
-  # - title: "Posts"
-  #   url: /posts
+  - title: "Skills"
+    url: /skills
+
+  - title: "Awords"
+    url: /awords
 
   - title: "Remakes"
     url: /remakes

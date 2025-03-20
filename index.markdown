@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yuma Oe"
-date: 2025-03-12
+date: 2025-03-20
 permalink: /
 header:
   overlay_image: "./assets/img/others/profile_header.jpg"
@@ -24,6 +24,6 @@ author_profile: true # これを追加
 
 # Contact
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
-※（a）を@に変更してください。
+※（a）を@に変更してください。  
 ※大学卒業及び大学院入学に伴い、上記のメールアドレスが失効する可能性があります。
 新しいメールアドレスが発行されるまでは、XのDM等でご連絡ください。

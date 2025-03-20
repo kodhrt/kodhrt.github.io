@@ -26,6 +26,15 @@ permalink: /skills
 </div>
 
 
+<div class="certificates_main">
+    成果物
+</div>
+
+<div class="certificate_box">
+    <h2>TOEIC L&R Score 880</h2>
+    <div class="date">February 2022</div>
+</div>
+
 <style>
     .certificate_container {
         display: grid;
