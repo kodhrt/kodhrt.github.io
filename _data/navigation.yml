@@ -2,6 +2,9 @@ main:
   - title: "Profile"
     url: /myself
 
+  - title: "News"
+    url: /news
+
   - title: "Researches"
     url: /researches
 
