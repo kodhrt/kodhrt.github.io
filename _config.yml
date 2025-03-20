@@ -249,6 +249,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -286,6 +287,19 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+
+#以下、自分で追加したアーカイブ
+plugins:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories  # カテゴリーごとのアーカイブページを生成
+  layouts:
+    category: archive  # アーカイブページに利用するレイアウト（Minimal Mistakes には archive レイアウトが用意されています）
+  permalinks:
+    category: '/categories/:name/'  # カテゴリーのページURLの形式を定義
+
 
 
 # HTML Compression
