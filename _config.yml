@@ -243,6 +243,7 @@ pagination:
 
 
 # Plugins (previously gems:)
+# archiveを追加（20250321）
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
