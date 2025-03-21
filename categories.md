@@ -1,7 +1,7 @@
 ---
 layout: single
 title: News
-permalink: /news/categories
+permalink: /categories
 ---
 
 ## news
