@@ -2,6 +2,7 @@
 layout: single
 title: "News"
 permalink: /news/
+author_profile: true
 ---
 
 ※カテゴリ毎にニュースを表示する機能は実装前です。  

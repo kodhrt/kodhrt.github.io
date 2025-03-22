@@ -2,6 +2,7 @@
 layout: single
 title: Remakes
 permalink: /remakes
+author_profile: true
 # header:
 ---
 <!-- 

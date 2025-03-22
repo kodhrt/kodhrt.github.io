@@ -2,6 +2,7 @@
 layout: single
 title: Skills
 permalink: /skills
+author_profile: true
 ---
 
 <!-- <div class="certificates_main">

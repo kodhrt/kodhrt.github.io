@@ -2,6 +2,7 @@
 layout: single
 title: Researches
 permalink: /researches
+author_profile: true
 ---
 
 1. ## 投稿コーディネート画像を用いたLoRAモデルの作成と分析

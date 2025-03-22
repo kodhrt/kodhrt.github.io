@@ -2,6 +2,7 @@
 layout: single
 title: Awards
 permalink: /awards
+author_profile: true
 ---
 
 1. ## DEIM2025 学生プレゼンテーション賞
