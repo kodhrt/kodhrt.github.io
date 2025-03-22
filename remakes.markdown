@@ -10,7 +10,7 @@ I create various works as a clothing remake artist under the name '**hearerta**'
  For more details, please visit my [Instagram](https://www.instagram.com/hearerta.39/). -->
 
 「hearerta」という名前で、服のリメイクもおこなっています。
-[Instagram](https://www.instagram.com/hearerta.39/) にて、ぜひ作品をご覧になってください。
+[Instagram](https://www.instagram.com/hearerta.39/){:target="_blank"} にて、ぜひ作品をご覧になってください。
 
 
 <div class="image_grid">

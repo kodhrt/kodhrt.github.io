@@ -24,11 +24,11 @@ author_profile: true
 
 1. ## ポートフォリオWebサイト
 静的サイトジェネレーター「Jekyll」を学習する目的で作成。  
-（[本サイト](https://kodhrt.github.io/)）
+（[本サイト](https://kodhrt.github.io/){:target="_blank"}）
 
 2. ## 静岡大学莊司研究室Webサイト
 所属研究室のWeb係として作成と運用を担当。  
-研究室のWebサイトは[こちら](https://shoji-lab.github.io/)
+研究室のWebサイトは[こちら](https://shoji-lab.github.io/){:target="_blank"}。
 
 <!-- <div class="certificate_container">
 <div class="certificate_box">   
