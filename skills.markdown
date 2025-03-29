@@ -22,7 +22,7 @@ author_profile: true
 
 ## 成果物
 
-1. ## ポートフォリオWebサイト
+1. ## 個人Webサイト
 自身のポートフォリオとして作成。  
 （[本サイト](https://kodhrt.github.io/){:target="_blank"}）
 
