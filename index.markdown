@@ -11,7 +11,7 @@ header:
 #     - label: "ここがリンク"
 #       url: https://qiita.com/
 #       class: "btn--primary"
-excerpt: "Welcome to My Portfolio."
+excerpt: "Welcome to My Website."
 author_profile: true # これを追加
 ---
 
