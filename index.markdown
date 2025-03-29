@@ -20,7 +20,8 @@ author_profile: true # これを追加
 所属する研究室の公式サイトは[こちら](https://shoji-lab.github.io/){:target="_blank"}。
 
 # About this site
-本Webサイトは、ポートフォリオとして自身のスキルや成果物をまとめるために作成されたものです。本Webサイトは「jekyll」という静的サイトジェネレーターで作成されています。
+本Webサイトは、自身のスキルや成果物をまとめるために作成されたものです。  
+本Webサイトは静的サイトジェネレーター「Jekyll」で作成されています。
 
 # Contact
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
