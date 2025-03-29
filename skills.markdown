@@ -23,7 +23,7 @@ author_profile: true
 ## 成果物
 
 1. ## ポートフォリオWebサイト
-静的サイトジェネレーター「Jekyll」を学習する目的で作成。  
+自身のポートフォリオとして作成。  
 （[本サイト](https://kodhrt.github.io/){:target="_blank"}）
 
 2. ## 静岡大学莊司研究室Webサイト
