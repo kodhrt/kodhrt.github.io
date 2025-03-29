@@ -7,7 +7,7 @@ author_profile: true
 
 <div class="news-list">
   {% for post in site.posts %}
-    {% if post.categories contains 'news' %}
+    {% if post.popopo contains 'news' %}
       <article class="news-post">
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
