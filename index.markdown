@@ -13,6 +13,7 @@ header:
 #       class: "btn--primary"
 excerpt: "Welcome to My Website."
 author_profile: true # これを追加
+description: "本Webサイトでは、静岡大学大学院 総合科学技術研究科の大江優真に関する情報をまとめています。"
 ---
 
 # About me
