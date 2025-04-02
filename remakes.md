@@ -3,6 +3,7 @@ layout: single
 title: Remakes
 permalink: /remakes
 author_profile: true
+description: "The gallery of hearerta."
 gallery:
   - url: ./assets/img/remakes/25.jpg
     image_path: ./assets/img/remakes/25.jpg
