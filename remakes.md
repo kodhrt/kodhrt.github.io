@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Remakes
-permalink: /remakes_new
+permalink: /remakes
 author_profile: true
 gallery:
   - url: ./assets/img/remakes/25.jpg
