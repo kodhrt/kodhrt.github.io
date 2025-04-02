@@ -106,4 +106,8 @@ gallery:
     title: "Remake Denim Jacket"
 
 ---
+「hearerta」という名前で、服のリメイク活動をおこなっています。
+
+[Instagram](https://www.instagram.com/hearerta.39/){:target="_blank"}でも作品をご覧になれます。
+
 {% include gallery caption="This is a gallery of **hearerta**." %}
