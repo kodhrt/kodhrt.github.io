@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /myself
+permalink: /myself/
 author_profile: true
 description: "大江優真（Yuma Oe）のプロフィールです"
 ---
@@ -56,9 +56,8 @@ Informatics -->
 
   .profile-image img {
     width: 100%;
-    max-width: 300px; /* 必要に応じて調整 */
-    height: auto;
-    border-radius: 10px; /* 写真の角を丸める場合 */
+    max-width: 500px; /* 必要に応じて調整 */
+    height: auto; 
   }
 
   @media (max-width: 768px) {
