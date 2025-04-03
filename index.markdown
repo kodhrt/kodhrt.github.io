@@ -22,7 +22,7 @@ description: "本Webサイトでは、静岡大学大学院 総合科学技術�
 
 # About this site
 本Webサイトは、自身のスキルや成果物をまとめるために作成されたものです。  
-本Webサイトは静的サイトジェネレーター「Jekyll」で作成されています。
+本Webサイトは静的サイトジェネレーター「[Jekyll](https://jekyllrb-ja.github.io/){:target="_blank"}」で作成されています。
 
 # Contact
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
