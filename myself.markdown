@@ -55,7 +55,7 @@ Informatics -->
   }
 
   .profile-image img {
-    max-width: 100%;
+    max-width: 150%;
     height: auto;
     <!-- border-radius: 10px; /* 写真の角を丸める場合 */ -->
   }
@@ -73,6 +73,11 @@ Informatics -->
     .profile-image {
       text-align: center;
       margin-top: 1.5rem;
+    }
+
+    .profile-image img {
+      max-width: 100%;
+      height: auto;
     }
   }
 
