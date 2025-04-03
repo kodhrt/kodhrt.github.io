@@ -24,7 +24,7 @@ Informatics -->
     <h2>NAME</h2>
     <p>大江 優真（Yuma Oe）</p>
     <h2>JOB</h2>
-    <p>College Student</p>
+    <p>Graduate Student</p>
     <h2>AGE</h2>
     <p>22</p>
     <h2>MAJOR</h2>
@@ -36,44 +36,44 @@ Informatics -->
   </div>
 </div>
 <style>
-    .profile-container {
+  .profile-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
   margin-top: 2rem;
-}
+  }
 
-    .profile-text {
+  .profile-text {
     flex-basis: 50%;
     padding-right: 2rem;
-    }
+  }
 
-    .profile-image {
+  .profile-image {
     flex-basis: 50%;
     text-align: right;
-    }
+  }
 
-    .profile-image img {
+  .profile-image img {
     max-width: 150%;
     height: auto;
     <!-- border-radius: 10px; /* 写真の角を丸める場合 */ -->
-    }
+  }
 
-    @media (max-width: 768px) {
+  @media (max-width: 768px) {
     .profile-container {
-        flex-direction: column;
-    }
-
-    .profile-image {
-        text-align: center;
-        margin-top: 1.5rem;
+      flex-direction: column;
     }
 
     .profile-text {
-        padding-right: 0;
-        text-align: center;
+      padding-right: 0;
+      text-align: center;
     }
-}
+
+    .profile-image {
+      text-align: center;
+      margin-top: 1.5rem;
+    }
+  }
 
 </style>
