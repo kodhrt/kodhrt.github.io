@@ -1,6 +1,8 @@
 ---
 layout: single
-# title: 大江 
+permalink: /myself
+author_profile: true
+description: "大江優真（Yuma Oe）のプロフィールです"
 ---
 
 <!-- # 大江 優真（Yuma Oe）
@@ -21,7 +23,7 @@ Informatics -->
     <h2>NAME</h2>
     <p>大江 優真（Yuma Oe）</p>
     <h2>JOB</h2>
-    <p>College Student</p>
+    <p>Graduate Student</p>
     <h2>AGE</h2>
     <p>22</p>
     <h2>MAJOR</h2>
@@ -32,44 +34,46 @@ Informatics -->
     <img src="../assets/img/others/profile.jpg" alt="プロフィール写真" />
   </div>
 </div>
+
 <style>
-    .profile-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 2rem;
-}
+  .profile-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem;
+  }
 
-    .profile-text {
-    flex-basis: 50%;
+  .profile-text {
+    flex: 1 1 50%;
     padding-right: 2rem;
-    }
+  }
 
-    .profile-image {
-    flex-basis: 50%;
+  .profile-image {
+    flex: 1 1 50%;
     text-align: right;
-    }
+  }
 
-    .profile-image img {
-    max-width: 150%;
+  .profile-image img {
+    width: 100%;
+    max-width: 300px; /* 必要に応じて調整 */
     height: auto;
-    <!-- border-radius: 10px; /* 写真の角を丸める場合 */ -->
-    }
+    border-radius: 10px; /* 写真の角を丸める場合 */
+  }
 
-    @media (max-width: 768px) {
+  @media (max-width: 768px) {
     .profile-container {
-        flex-direction: column;
-    }
-
-    .profile-image {
-        text-align: center;
-        margin-top: 1.5rem;
+      flex-direction: column;
     }
 
     .profile-text {
-        padding-right: 0;
+      padding-right: 0;
+      text-align: center;
     }
-}
 
+    .profile-image {
+      text-align: center;
+      margin-top: 1.5rem;
+    }
+  }
 </style>
