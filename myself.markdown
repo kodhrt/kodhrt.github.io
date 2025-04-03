@@ -56,7 +56,7 @@ Informatics -->
 
   .profile-image img {
     width: 100%;
-    max-width: 500px; /* 必要に応じて調整 */
+    max-width: 700px; /* 必要に応じて調整 */
     height: auto; 
   }
 
