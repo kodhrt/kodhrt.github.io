@@ -3,6 +3,7 @@ layout: single
 title: "News"
 permalink: /news/
 author_profile: true
+description: "大江優真（Yuma Oe）に関する最新情報です。"
 ---
 
 <div class="news-list">

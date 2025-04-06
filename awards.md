@@ -3,6 +3,7 @@ layout: single
 title: Awards
 permalink: /awards
 author_profile: true
+description: "大江優真（Yuma Oe）の受賞歴です。"
 ---
 
 1. ## DEIM2025 学生プレゼンテーション賞

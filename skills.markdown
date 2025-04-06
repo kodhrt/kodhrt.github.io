@@ -3,6 +3,7 @@ layout: single
 title: Skills
 permalink: /skills
 author_profile: true
+description:　"大江優真（Yuma Oe）の取得資格や成果物のまとめです。"
 ---
 
 <!-- <div class="certificates_main">

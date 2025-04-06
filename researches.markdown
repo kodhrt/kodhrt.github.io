@@ -3,6 +3,7 @@ layout: single
 title: Researches
 permalink: /researches
 author_profile: true
+description: "大江優真（Yuma Oe）の論文一覧です。"
 ---
 
 1. ## 投稿コーディネート画像を用いたLoRAモデルの作成と分析
