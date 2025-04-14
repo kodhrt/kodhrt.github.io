@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yuma Oe"
-date: 2025-04-06
+date: 2025-04-14
 permalink: /
 header:
   overlay_image: "./assets/img/others/profile_header.jpg"
@@ -17,7 +17,7 @@ description: "本Webサイトでは、静岡大学大学院 総合科学技術�
 ---
 
 # About me
-静岡大学大学院 総合科学技術研究科情報学専攻修士1年の大江 優真（おおえ ゆうま）です。画像生成AIを用いたファッションコーディネート推薦に関する研究をしています。趣味は服のリメイク、喫茶店探し、ひとり旅です。  
+静岡大学大学院 総合科学技術研究科情報学専攻修士1年の大江 優真（おおえ ゆうま）です。ファッションに関する情報アクセス技術の研究をしています。趣味は服のリメイク、喫茶店探し、ひとり旅です。  
 所属する研究室の公式サイトは[こちら](https://shoji-lab.github.io/){:target="_blank"}。
 
 # About this site
