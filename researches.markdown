@@ -14,7 +14,7 @@ description: "大江優真（Yuma Oe）の論文一覧です。"
 Vu Thi Ngoc Anh, Yoshiyuki Shoji , Yuma Oe, Huu Long Pham, Hiroaki Ohshima, Proc. of The 31st International Conference on Multimedia Modeling (MMM 2025), pp.101–114, 2024. [\[pdf\]](https://shoji-lab.jp/research_paper/mmm2024_Anh_LoRASearch.pdf){:target="_blank"}
 
 3. ## ファッションアイテム画像をクエリとする画像生成AIを用いたコーディネート推薦
-大江 優真, 莊司 慶行, 第17回データ工学と情報マネジメントに関するフォーラム（DEIM2025）会議録, pp. 1F-01, 2025. [\[pdf\]](https://pub-files.atlas.jp/fs/public/deim2025/ver_17/abstract/ja/1F-01.pdf){:target="_blank"}
+大江 優真, 莊司 慶行, 第17回データ工学と情報マネジメントに関するフォーラム（DEIM2025）会議録, pp. 1F-01, 2025. [\[pdf\]](https://pub-files.atlas.jp/fs/public/deim2025/ver_19/abstract/ja/1F-01.pdf){:target="_blank"}
 
 4. ## スタイル距離計算に基づく画像を入力とする画像生成AIモデル検索
-大江 優真, ブ・ティ・ゴッグ アン, ファム・フー・ロン, 大島 裕明, 莊司 慶行, 第17回データ工学と情報マネジメントに関するフォーラム（DEIM2025）会議録, pp. 6E-01, 2025. [\[pdf\]](https://pub-files.atlas.jp/fs/public/deim2025/ver_17/abstract/ja/6E-01.pdf){:target="_blank"}
+大江 優真, ブ・ティ・ゴッグ アン, ファム・フー・ロン, 大島 裕明, 莊司 慶行, 第17回データ工学と情報マネジメントに関するフォーラム（DEIM2025）会議録, pp. 6E-01, 2025. [\[pdf\]](https://pub-files.atlas.jp/fs/public/deim2025/ver_19/abstract/ja/6E-01.pdf){:target="_blank"}
