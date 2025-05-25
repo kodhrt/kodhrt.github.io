@@ -38,7 +38,8 @@ description: "大江優真（Yuma Oe）の取得資格や成果物のまとめ�
 
 1. ## IR Reading 2025春
 2025年5月  
-IR Reading 2025春の公式サイトは[こちら](https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/){:target="_blank"}。
+IR Reading 2025春の公式サイトは[こちら](https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/){:target="_blank"}。  
+参加レポートは[こちら](https://kodhrt.github.io/IRReading2025Spring/){:target="_blank"}。
 
 2. ## IR Reading 2024秋
 2024年11月  
