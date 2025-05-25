@@ -12,13 +12,16 @@ description: "大江優真（Yuma Oe）の取得資格や成果物のまとめ�
 
 ## 資格・試験
 
-1. ## 応用情報技術者試験（AP）合格
+1. ## 【オープンバッジ】数理データサイエンスAI教育プログラム（応用基礎レベル）
+2024年3月
+
+2. ## 応用情報技術者試験（AP）合格
 2023年12月
 
-2. ## 基本情報技術者試験（FP）合格
+3. ## 基本情報技術者試験（FP）合格
 2023年5月
 
-3. ## TOEIC L&R Score 880
+4. ## TOEIC L&R Score 880
 2022年2月
 
 ## 成果物
@@ -30,6 +33,8 @@ description: "大江優真（Yuma Oe）の取得資格や成果物のまとめ�
 2. ## 静岡大学莊司研究室Webサイト
 所属研究室のWeb係として作成と運用を担当。  
 研究室のWebサイトは[こちら](https://shoji-lab.github.io/){:target="_blank"}。
+
+## 外部の勉強会・講演
 
 <!-- <div class="certificate_container">
 <div class="certificate_box">   
