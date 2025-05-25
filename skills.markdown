@@ -36,6 +36,16 @@ description: "大江優真（Yuma Oe）の取得資格や成果物のまとめ�
 
 ## 外部の勉強会・講演
 
+1. ## IR Reading 2025春
+2025年5月  
+IR Reading 2025春の公式サイトは[こちら](https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/){:target="_blank"}。
+
+2. ## IR Reading 2024秋
+2024年11月  
+IR Reading 2024秋の公式サイトは[こちら](https://sigirtokyo.github.io/post/2024-11-09-irreading_2024fall/){:target="_blank"}。
+
+
+
 <!-- <div class="certificate_container">
 <div class="certificate_box">   
     <h2>応用情報技術者試験（AP）合格</h2>
