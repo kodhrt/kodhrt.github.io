@@ -28,10 +28,11 @@ IR Readingは、情報アクセス分野に関する主要国際会議の論文�
 例年通りなら秋ごろにまた開催されるそうなので、積極的に参加して最新の研究動向をキャッチアップしたいところです。
 
 以下、IR Reading 2025春及び紹介した論文の詳細です。  
+
 **IR Reading 2025春**  
 * Webサイト：[https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/](https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/){:target="_blank"}  
 * 開催日程：2025年5月24日  
 * 開催：オンライン
 
-**紹介論文**
+**紹介論文**  
 **Personalised Outfit Recommendation via History-aware Transformers**, Myong Chol Jung, Julien Monteil, Philip Schulz, Volodymyr Vaskovych, The 18th ACM International Conference on Web Search and Data Mining（WSDM2025）, 2025, [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3701551.3703545){:target="_blank"}
