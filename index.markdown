@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yuma Oe"
-date: 2025-05-25
+date: 2025-09-07
 permalink: /
 header:
   overlay_image: "./assets/img/others/profile_header.jpg"
