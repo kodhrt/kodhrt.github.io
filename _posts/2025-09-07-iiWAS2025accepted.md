@@ -19,7 +19,7 @@ description: "DEIM2025の参加レポートです。"
 
 発表は、2025年の12月に日本の松江にておこなわれます。
 
-## 書誌情報
+**書誌情報**
 - **Can Stable Diffusion Recommend Outfits?: Outfit Recommendation from Fashion Item Images via Generative AI**, Yuma Oe and Yoshiyuki Shoji, Proc. of The 27th International Conference on Information Integration and Web Intelligence (iiWAS2025), to appear, 2025.
 
 iiWAS2025については[こちら](https://www.iiwas.org/conferences/iiwas2025/){:target="_blank"}
