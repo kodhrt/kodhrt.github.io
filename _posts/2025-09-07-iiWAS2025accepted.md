@@ -7,7 +7,7 @@ excerpt: "iiWAS2025"
 author_profile: true
 related:
   - /2025/03/06/DEIM2025Awards/
-description: "DEIM2025の参加レポートです。"
+description: "iiWAS2025に論文が採択されました"
 ---
 
 2025年に開催されるThe 27th International Conference on Information Integration and Web Intelligence（iiWAS2025）にて、主著論文がフルペーパーとして採択されました。
