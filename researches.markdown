@@ -11,7 +11,7 @@ description: "大江優真（Yuma Oe）の論文一覧です。"
 Yuma Oe and Yoshiyuki Shoji, Proc. of The 27th International Conference on Information Integration and Web Intelligence (iiWAS2025), to appear, 2025.
 
 2. **Image-Generation AI Model Retrieval by Contrastive Learning-based Style Distance Calculation**, 
-Vu Thi Ngoc Anh, Yoshiyuki Shoji , Yuma Oe, Huu Long Pham, Hiroaki Ohshima, Proc. of The 31st International Conference on Multimedia Modeling (MMM 2025), pp.101–114, 2024. [\[pdf\]](https://shoji-lab.jp/research_paper/mmm2024_Anh_LoRASearch.pdf){:target="_blank"}
+Vu Thi Ngoc Anh, Yoshiyuki Shoji , Yuma Oe, Huu Long Pham, Hiroaki Ohshima, Proc. of The 31st International Conference on Multimedia Modeling (MMM 2025), pp.101–114, 2025. [\[pdf\]](https://shoji-lab.jp/research_paper/mmm2024_Anh_LoRASearch.pdf){:target="_blank"}
 
 ## 国内会議・ワークショップ等
 1. **ファッション生成画像の再ランキングのためのコーディネート画像の系統らしさの推定**, 
