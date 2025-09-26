@@ -5,6 +5,26 @@ permalink: /remakes
 author_profile: true
 description: "The gallery of hearerta."
 gallery:
+  - url: ./assets/img/remakes/30.jpg
+    image_path: ./assets/img/remakes/30.jpg
+    alt: "placeholder image 30"
+    title: "Tri-Pattern Check Shirt"
+  - url: ./assets/img/remakes/29.jpg
+    image_path: ./assets/img/remakes/29.jpg
+    alt: "placeholder image 29"
+    title: "Stain-like Remake Flare Pants"
+  - url: ./assets/img/remakes/28.jpg
+    image_path: ./assets/img/remakes/28.jpg
+    alt: "placeholder image 28"
+    title: "Resized Patchwork Sweatshirt"
+  - url: ./assets/img/remakes/27.jpg
+    image_path: ./assets/img/remakes/27.jpg
+    alt: "placeholder image 27"
+    title: "Jacket-contained Sweatshirt"
+  - url: ./assets/img/remakes/26.jpg
+    image_path: ./assets/img/remakes/26.jpg
+    alt: "placeholder image 26"
+    title: "Remake Flare Pants"
   - url: ./assets/img/remakes/25.jpg
     image_path: ./assets/img/remakes/25.jpg
     alt: "placeholder image 25"
