@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yuma Oe"
-date: 2025-09-24
+date: 2025-10-03
 permalink: /
 header:
   overlay_image: "./assets/img/others/profile_header.jpg"
@@ -25,6 +25,7 @@ description: "本Webサイトでは、静岡大学大学院 総合科学技術�
 
 # Related Sites
 - [所属研究室 公式Webサイト](https://shoji-lab.github.io/){:target="_blank"}  
+- [Google Scholar](https://scholar.google.co.jp/citations?user=09eKYaIAAAAJ&hl=ja){:target="_blank"}  
 - [Consese（旧Scrapbox）](https://scrapbox.io/shoji-lab-survey/Yuma_Oe){:target="_blank"}
 
 # Contact
