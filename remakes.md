@@ -5,6 +5,10 @@ permalink: /remakes
 author_profile: true
 description: "The gallery of hearerta."
 gallery:
+  - url: ./assets/img/remakes/31.jpg
+    image_path: ./assets/img/remakes/31.jpg
+    alt: "placeholder image 31"
+    title: "Tsugihagi Sweatshirt with Half-Zip"
   - url: ./assets/img/remakes/30.jpg
     image_path: ./assets/img/remakes/30.jpg
     alt: "placeholder image 30"
