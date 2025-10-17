@@ -38,7 +38,7 @@ description: "本Webサイトでは、静岡大学大学院 総合科学技術�
           <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
             {{ post.date | date: '%Y年%m月%d日' }}
           </time>
-          <p>{{ post.excerpt }}</p>
+          <!-- <p>{{ post.excerpt }}</p> -->
         </article>
         {% assign count = count | plus: 1 %}
       {% endif %}
