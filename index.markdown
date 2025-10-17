@@ -47,8 +47,16 @@ description: "本Webサイトでは、静岡大学大学院 総合科学技術�
     {% endif %}
   {% endfor %}
 </div>
+<div class="more_news">
 過去の記事は[こちら](https://kodhrt.github.io/news/)。
+</div>
 
 # Contact
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
 ※（a）を@に変更してください。  
+
+<style>
+    more_news {
+        text-align: right;
+    }
+</style>
