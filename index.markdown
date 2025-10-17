@@ -22,10 +22,32 @@ description: "本Webサイトでは、静岡大学大学院 総合科学技術�
 本Webサイトは、自身のスキルや成果物をまとめるために作成されたものです。  
 本Webサイトは静的サイトジェネレーター「[Jekyll](https://jekyllrb-ja.github.io/){:target="_blank"}」で作成されています。
 
-# Related Sites
+# Related sites
 - [所属研究室 公式Webサイト](https://shoji-lab.github.io/){:target="_blank"}  
 - [Google Scholar](https://scholar.google.co.jp/citations?user=09eKYaIAAAAJ&hl=ja){:target="_blank"}  
 - [Consese（旧Scrapbox）](https://scrapbox.io/shoji-lab-survey/Yuma_Oe){:target="_blank"}
+
+# Latest news
+<div class="news-list">
+  {% assign count = 0 %}
+  {% for post in site.posts %}
+    {% if count < 3 %}
+      {% if post.popopo contains 'news' %}
+        <article class="news-post">
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <time datetime="{{ post.date | date: '%Y-%m-%d' }}">
+            {{ post.date | date: '%Y年%m月%d日' }}
+          </time>
+          <p>{{ post.excerpt }}</p>
+        </article>
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% else %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+</div>
+過去の記事は[こちら](https://kodhrt.github.io/news/)。
 
 # Contact
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
