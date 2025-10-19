@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yuma Oe"
-date: 2025-10-03
+date: 2025-10-19
 permalink: /
 header:
   overlay_image: "./assets/img/others/profile_header.jpg"
@@ -48,8 +48,9 @@ description: "本Webサイトでは、静岡大学大学院 総合科学技術�
   {% endfor %}
 </div>
 
-過去の記事は[こちら](https://kodhrt.github.io/news/) 。
+[More news](https://kodhrt.github.io/news/) 
 
+---
 
 # Contact
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
