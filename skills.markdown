@@ -26,19 +26,25 @@ description: "大江優真（Yuma Oe）の取得資格や成果物のまとめ�
 
 ## 成果物
 
-1. ## 個人Webサイト
+1. ## 求人検索アプリケーション「ByChanceJob」
+2025年7月  
+技育CAMPハッカソンVol.8  
+参加レポートは[こちら](https://kodhrt.github.io/%E6%8A%80%E8%82%B2%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%97%E3%83%8F%E3%83%83%E3%82%AB%E3%82%BD%E3%83%B3/)
+
+2. ## 個人Webサイト
 自身のポートフォリオとして作成。  
 （[本サイト](https://kodhrt.github.io/){:target="_blank"}）
 
-2. ## 静岡大学莊司研究室Webサイト
+3. ## 静岡大学莊司研究室Webサイト
 所属研究室のWeb係として作成と運用を担当。  
 研究室のWebサイトは[こちら](https://shoji-lab.github.io/){:target="_blank"}。
 
+
 ## 外部の勉強会・講演
 
-1. ## シチュエーションをクエリとするコーディネート推薦  
+1. ## 東海関西データベースワークショップ2025（DBWS2025） 
 2025年9月  
-東海関西データベースワークショップ2025（DBWS2025）  
+シチュエーションをクエリとするコーディネート推薦  
 - 公式サイトは[こちら](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E3%83%9B%E3%83%BC%E3%83%A0)  
 - 参加レポートは[こちら](https://kodhrt.github.io/DBWS2025/)  
 
