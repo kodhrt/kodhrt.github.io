@@ -25,7 +25,7 @@ description: "本Webサイトでは、静岡大学大学院 総合科学技術�
 # Related sites
 - [所属研究室 公式Webサイト](https://shoji-lab.github.io/){:target="_blank"}  
 - [Google Scholar](https://scholar.google.co.jp/citations?user=09eKYaIAAAAJ&hl=ja){:target="_blank"}  
-- [Consence（旧Scrapbox）](https://scrapbox.io/shoji-lab-survey/Yuma_Oe){:target="_blank"}
+- [Cosence（旧Scrapbox）](https://scrapbox.io/shoji-lab-survey/Yuma_Oe){:target="_blank"}
 
 # Latest news
 <div class="news-list">
