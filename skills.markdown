@@ -48,13 +48,13 @@ description: "大江優真（Yuma Oe）の取得資格や成果物のまとめ�
 - 公式サイトは[こちら](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E3%83%9B%E3%83%BC%E3%83%A0)  
 - 参加レポートは[こちら](https://kodhrt.github.io/DBWS2025/)  
 
-2. ## 株式会社ZOZONEXT 招待講演  
-2025年4月
-
-3. ## IR Reading 2025春
+2. ## IR Reading 2025春
 2025年5月  
 - IR Reading 2025春の公式サイトは[こちら](https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/){:target="_blank"}。  
 - 参加レポートは[こちら](https://kodhrt.github.io/IRReading2025Spring/){:target="_blank"}。
+
+3. ## 株式会社ZOZONEXT 招待講演  
+2025年4月
 
 4. ## IR Reading 2024秋
 2024年11月  

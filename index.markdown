@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yuma Oe"
-date: 2025-10-25
+date: 2025-11-03
 permalink: /
 header:
   overlay_image: "./assets/img/others/profile_header.jpg"
@@ -16,16 +16,16 @@ description: "本Webサイトでは、静岡大学大学院 総合科学技術�
 ---
 
 # About me
-静岡大学大学院 総合科学技術研究科情報学専攻修士1年の大江 優真（おおえ ゆうま）です。ファッションに関する情報アクセス技術の研究をしています。趣味は服のリメイク、喫茶店探し、ひとり旅です。  
+静岡大学大学院 総合科学技術研究科情報学専攻修士1年の大江 優真（おおえ ゆうま）です。ファッションに関する情報アクセス技術の研究をしています。趣味は服のリメイク、喫茶店探し、ひとり旅、デジカメです。  
 
 # About this site
 本Webサイトは、自身のスキルや成果物をまとめるために作成されたものです。  
-本Webサイトは静的サイトジェネレーター「[Jekyll](https://jekyllrb-ja.github.io/){:target="_blank"}」で作成されています。
+静的サイトジェネレーター「[Jekyll](https://jekyllrb-ja.github.io/){:target="_blank"}」で作成されています。
 
 # Related sites
 - [所属研究室 公式Webサイト](https://shoji-lab.github.io/){:target="_blank"}  
 - [Google Scholar](https://scholar.google.co.jp/citations?user=09eKYaIAAAAJ&hl=ja){:target="_blank"}  
-- [Consese（旧Scrapbox）](https://scrapbox.io/shoji-lab-survey/Yuma_Oe){:target="_blank"}
+- [Consence（旧Scrapbox）](https://scrapbox.io/shoji-lab-survey/Yuma_Oe){:target="_blank"}
 
 # Latest news
 <div class="news-list">
