@@ -31,7 +31,7 @@ IR Readingは、情報アクセス分野に関する主要国際会議の論文�
 以下、イベント及び紹介した論文の詳細です。  
 
 **IR Reading 2025秋**  
-* Webサイト：[https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/](https://sigirtokyo.github.io/post/2025-11-15-irreading_2025fall/){:target="_blank"}  
+* Webサイト：[https://sigirtokyo.github.io/post/2025-05-24-irreading_2025fall/](https://sigirtokyo.github.io/post/2025-11-15-irreading_2025fall/){:target="_blank"}  
 * 開催日程：2025年11月15日  
 * 開催：オンライン
 
