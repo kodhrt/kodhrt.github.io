@@ -44,7 +44,7 @@ description: "大江優真（Yuma Oe）の取得資格や成果物のまとめ�
 1. ## IR Reading 2025秋
 2025年11月
 - IR Reading 2025秋の公式サイトは[こちら](https://sigirtokyo.github.io/post/2025-11-15-irreading_2025fall/){:target="_blank"}。  
-- 参加レポートは[こちら](https://kodhrt.github.io/IRReading2025Autumn/){:target="_blank"}。
+- 参加レポートは[こちら](https://kodhrt.github.io/IRReading2025Autumn/)。
 
 2. ## 東海関西データベースワークショップ2025（DBWS2025） 
 2025年9月  
@@ -55,7 +55,7 @@ description: "大江優真（Yuma Oe）の取得資格や成果物のまとめ�
 3. ## IR Reading 2025春
 2025年5月  
 - IR Reading 2025春の公式サイトは[こちら](https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/){:target="_blank"}。  
-- 参加レポートは[こちら](https://kodhrt.github.io/IRReading2025Spring/){:target="_blank"}。
+- 参加レポートは[こちら](https://kodhrt.github.io/IRReading2025Spring/)。
 
 4. ## 株式会社ZOZONEXT 招待講演  
 2025年4月
