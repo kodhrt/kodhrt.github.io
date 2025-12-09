@@ -8,7 +8,7 @@ description: "大江優真（Yuma Oe）の論文一覧です。"
 
 ## 国際会議論文（査読付き）
 1. **Can Stable Diffusion Recommend Outfits?: Outfit Recommendation from Fashion Item Images via Generative AI**, 
-<u>Yuma Oe</u> and Yoshiyuki Shoji, Proc. of The 27th International Conference on Information Integration and Web Intelligence (iiWAS2025), to appear, 2025.
+<u>Yuma Oe</u> and Yoshiyuki Shoji, Proc. of The 27th International Conference on Information Integration and Web Intelligence (iiWAS2025), pp. 443 - 457, 2025.[\[pdf\]](https://shoji-lab.jp/research_paper/iiWAS2025_Oe_FasionByStableDiffusin.pdf){:target="_blank"}
 
 2. **Image-Generation AI Model Retrieval by Contrastive Learning-based Style Distance Calculation**, 
 Vu Thi Ngoc Anh, Yoshiyuki Shoji , <u>Yuma Oe</u>, Huu Long Pham, Hiroaki Ohshima, Proc. of The 31st International Conference on Multimedia Modeling (MMM 2025), pp.101–114, 2025. [\[pdf\]](https://shoji-lab.jp/research_paper/mmm2024_Anh_LoRASearch.pdf){:target="_blank"}
