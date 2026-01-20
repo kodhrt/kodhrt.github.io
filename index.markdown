@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Yuma Oe"
-date: 2026-01-03
+date: 2026-01-20
 permalink: /
 header:
   overlay_image: "./assets/img/others/profile_header.jpg"
@@ -15,19 +15,23 @@ author_profile: true # これを追加
 description: "本Webサイトでは、静岡大学大学院 総合科学技術研究科の大江 優真（Yuma Oe）に関する情報をまとめています。"
 ---
 
-# About me
+# About Me
 静岡大学大学院 総合科学技術研究科情報学専攻修士1年の大江 優真（おおえ ゆうま）です。ファッションに関する情報アクセス技術の研究をしています。趣味は服のリメイク、喫茶店探し、ひとり旅、デジカメです。  
 
-# About this site
+# About This Website
 本Webサイトは、自身のスキルや成果物をまとめるために作成されたものです。  
 静的サイトジェネレーター「[Jekyll](https://jekyllrb-ja.github.io/){:target="_blank"}」で作成されています。
 
-# Related sites
+# For International Visitors
+Welcome to Yuma Oe's Website.  
+[Here](https://kodhrt.github.io/index_en/) is an English page about me. 
+
+# Related Sites
 - [所属研究室 公式Webサイト](https://shoji-lab.github.io/){:target="_blank"}  
 - [Google Scholar](https://scholar.google.co.jp/citations?user=09eKYaIAAAAJ&hl=ja){:target="_blank"}  
 - [Cosence（旧Scrapbox）](https://scrapbox.io/shoji-lab-survey/Yuma_Oe){:target="_blank"}
 
-# Latest news
+# Latest News
 <div class="news-list">
   {% assign count = 0 %}
   {% for post in site.posts %}
