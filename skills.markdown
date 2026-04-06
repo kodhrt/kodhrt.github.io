@@ -71,7 +71,17 @@ MLエンジニアとして勤務
 2024年11月  
 IR Reading 2024秋の公式サイトは[こちら](https://sigirtokyo.github.io/post/2024-11-09-irreading_2024fall/){:target="_blank"}。
 
+## TA（Teaching Assistant）
+1. ### 情報システム基礎演習 （Information Systems Fundamental Seminar）
+2026年4月
 
+2. ### 情報システム基礎演習 （Information Systems Fundamental Seminar）
+2025年4月  
+第2部 データモデリング（白井 靖人先生、莊司 慶行先生ご担当回）
+
+3. ### データアナリティクスⅡ
+2024年4月  
+イントロダクション～アンケートデータ分析（莊司 慶行先生ご担当回）
 
 <!-- <div class="certificate_container">
 <div class="certificate_box">   
