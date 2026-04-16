@@ -7,10 +7,14 @@ description: "大江優真（Yuma Oe）の論文一覧です。"
 ---
 
 ## 国際会議論文（査読付き）
-1. **Can Stable Diffusion Recommend Outfits?: Outfit Recommendation from Fashion Item Images via Generative AI**, 
-<u>Yuma Oe</u> and Yoshiyuki Shoji, Proc. of The 27th International Conference on Information Integration and Web Intelligence (iiWAS2025), pp. 443 - 457, 2025. [\[pdf\]](https://shoji-lab.jp/research_paper/iiWAS2025_Oe_FasionByStableDiffusin.pdf){:target="_blank"}
+1. **Asymmetric Pipeline for Dataset Construction and Situation-aware Generative Outfit Retrieval Leveraging Differences in Task Difficulty**, <u>Yuma Oe</u>, Katsumi Tanaka, Yoshiyuki Shoji, Proc. of The 16th ACM International Conference on Multimedia Retrieval (ICMR2026), to appear, 2026.
 
-2. **Image-Generation AI Model Retrieval by Contrastive Learning-based Style Distance Calculation**, 
+2. **Retrieval of LoRA Models based on Layer-Wise Weight Embedding without Metadata**, Yuro Kanada, <u>Yuma Oe</u>, Huu-Long Pham, Makoto P. Kato, Hiroaki Ohshima, Sumio Fijita, Yoshiyuki Shoji, Proc. of The 16th ACM International Conference on Multimedia Retrieval (ICMR2026), to appear, 2026.
+
+3. **Can Stable Diffusion Recommend Outfits?: Outfit Recommendation from Fashion Item Images via Generative AI**, 
+<u>Yuma Oe</u>, Yoshiyuki Shoji, Proc. of The 27th International Conference on Information Integration and Web Intelligence (iiWAS2025), pp. 443 - 457, 2025. [\[pdf\]](https://shoji-lab.jp/research_paper/iiWAS2025_Oe_FasionByStableDiffusin.pdf){:target="_blank"}
+
+4. **Image-Generation AI Model Retrieval by Contrastive Learning-based Style Distance Calculation**, 
 Vu Thi Ngoc Anh, Yoshiyuki Shoji , <u>Yuma Oe</u>, Huu Long Pham, Hiroaki Ohshima, Proc. of The 31st International Conference on Multimedia Modeling (MMM 2025), pp.101–114, 2025. [\[pdf\]](https://shoji-lab.jp/research_paper/mmm2024_Anh_LoRASearch.pdf){:target="_blank"}
 
 ## 国内会議・ワークショップ等
