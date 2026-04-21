@@ -27,7 +27,7 @@ Welcome to Yuma Oe's Website.
 [Here](https://kodhrt.github.io/index_en/) is an English page about me. 
 
 # Related Sites
-- [所属研究室 公式Webサイト](https://shoji-lab.github.io/){:target="_blank"}  
+- [静岡大学莊司研究室 公式Webサイト](https://shoji-lab.github.io/){:target="_blank"}  
 - [Google Scholar](https://scholar.google.co.jp/citations?user=09eKYaIAAAAJ&hl=ja){:target="_blank"}  
 - [Cosence（旧Scrapbox）](https://scrapbox.io/shoji-lab-survey/Yuma_Oe){:target="_blank"}
 
@@ -57,5 +57,7 @@ Welcome to Yuma Oe's Website.
 ---
 
 # Contact
+**「ファッション×情報アクセス技術」**のテーマで、共同研究やイベント等の企画・参加のご相談を歓迎しています。
+
 メールアドレス：oe.yuma.21（a）shizuoka.ac.jp  
 ※（a）を@に変更してください。  
