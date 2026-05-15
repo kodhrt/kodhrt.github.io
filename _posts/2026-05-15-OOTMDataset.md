@@ -1,6 +1,6 @@
 ---
 title: "【データセット】OOTM Dataset v1を公開しました"
-date: 2026-04-16
+date: 2026-05-15
 popopo: news
 layout: single  # または post としてもOK。テーマの設定に合わせて調整してください。
 excerpt: "データセット公開"
