@@ -8,8 +8,8 @@ main:
   - title: "News"
     url: /news
 
-  - title: "Skills"
-    url: /skills
+  - title: "Works"
+    url: /works
 
   - title: "Awards"
     url: /awards

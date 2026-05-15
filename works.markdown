@@ -1,15 +1,15 @@
 ---
 layout: single
-title: Skills
-permalink: /skills
+title: Works
+permalink: /works
 author_profile: true
-description: "大江優真（Yuma Oe）の取得資格や成果物のまとめです。"
+description: "Yuma Oe. 大江 優真, 大江優真, 大江"
 ---
 
 <!-- <div class="certificates_main">
     資格・試験
 </div> -->
-## 開発経験
+## 開発
 1. ### 株式会社リクルート インターンシップ
 2025年1月7日-2月10日  
 SaaS事業部のレコメンド機能開発に従事
@@ -59,6 +59,11 @@ WEARの新機能開発に従事
 6. ### IR Reading 2024秋
 2024年11月  
 IR Reading 2024秋の公式サイトは[こちら](https://sigirtokyo.github.io/post/2024-11-09-irreading_2024fall/){:target="_blank"}。
+
+## Datasets
+1. ### OOTM Dataset v1
+2026年5月  
+リンク: [https://github.com/shoji-lab/OOTM_dataset_Oe_v1](https://github.com/shoji-lab/OOTM_dataset_Oe_v1){:target="_blank"}
 
 ## TA（Teaching Assistant）
 1. ### 情報システム基礎演習 （Information Systems Fundamental Seminar）
