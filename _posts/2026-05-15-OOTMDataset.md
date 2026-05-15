@@ -14,8 +14,9 @@ description: "The 16th ACM International Conference on Multimedia Retrieval（IC
 
 本データセットは、画像のキャプショニングにより作成された、シチュエーションとコーディネート説明文のペアデータセットです。
 
-「OOTM」とは、「Outfit Of The Moment」の略で、SNSなどで用いられるファッションスラング「OOTD（Outfit Of The Day）」をもじった名称を付けました。
-（個人的に超気に入っている）  
+「OOTM」とは、「Outfit Of The Moment」の略で、SNSなどで用いられるファッションスラング「OOTD（Outfit Of The Day）」をもじった名称を付けました。  
+（個人的に超気に入っている）
+
 今後の発展可能性を踏まえ、「v1」と名付けました。
 
 また本データセットを作成した研究内容は、**The 16th ACM International Conference on Multimedia Retrieval（ICMR2026）**のフルペーパーとして採択されており、2026年6月に発表予定です。
