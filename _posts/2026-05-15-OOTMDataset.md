@@ -5,12 +5,14 @@ popopo: news
 layout: single  # または post としてもOK。テーマの設定に合わせて調整してください。
 excerpt: "データセット公開"
 author_profile: true
+header:
+  og_image: /assets/img/posts/20260515/OOTM.webp
 description: "The 16th ACM International Conference on Multimedia Retrieval（ICMR2026）, OOTM Dataset v1, Yuma Oe, 大江 優真, 大江優真"
 ---
 
 主著論文「**Asymmetric Pipeline for Dataset Construction and Situation-aware Generative Outfit Retrieval Leveraging Differences in Task Difficulty**」の採択に伴い、本研究で作成したデータセット「**OOTM Dataset v1**」を公開しました。
 
-![写真](/assets/img/posts/20260515/OOTM.png "リポジトリのスクリーンショット")
+![写真](/assets/img/posts/20260515/OOTM.webp "リポジトリのスクリーンショット")
 
 本データセットは、画像のキャプショニングにより作成された、シチュエーションとコーディネート説明文のペアデータセットです。
 
