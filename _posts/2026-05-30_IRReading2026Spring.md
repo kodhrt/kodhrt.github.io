@@ -5,8 +5,6 @@ popopo: news
 layout: single  # または post としてもOK。テーマの設定に合わせて調整してください。
 excerpt: "IR Reading 2026春"
 author_profile: true
-header:
-  og_image: /assets/img/posts/20260515/OOTM.webp
 description: "IR Reading, IR Reading2026春, Yuma Oe, 大江, 大江 優真"
 ---
 こんにちは。大江です。
