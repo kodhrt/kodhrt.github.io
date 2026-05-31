@@ -1,5 +1,5 @@
 ---
-title: "【発表】IR Reading 2025春に参加してきました"
+title: "【発表】IR Reading 2026春に参加してきました"
 date: 2026-05-30
 popopo: news
 layout: single  # または post としてもOK。テーマの設定に合わせて調整してください。
