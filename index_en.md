@@ -7,7 +7,7 @@ description: "This is a page about Yuma Oe."
 Thank you for visiting my website. I am honored to have you here.
 
 ## About Me
-My name is Yuma Oe. I am a graduate student specializing in Informatics at Shizuoka University, Japan. 
+I'm Yuma Oe, a graduate student specializing in Informatics at Shizuoka University, Japan. 
 
 Outside of my academic pursuits, my personal interests include clothing customization, exploring cafes, solo traveling, and digital photography.
 
