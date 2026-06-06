@@ -24,7 +24,7 @@ Informatics -->
     <h2>NAME</h2>
     <p>大江 優真（Yuma Oe）</p>
     <h2>JOB</h2>
-    <p>Graduate Student</p>
+    <p>Graduate Student / ML Engineer</p>
     <h2>AGE</h2>
     <p>24</p>
     <h2>MAJOR</h2>
