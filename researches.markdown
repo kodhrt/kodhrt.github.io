@@ -17,6 +17,9 @@ description: "大江優真（Yuma Oe）の論文一覧です。"
 4. **Image-Generation AI Model Retrieval by Contrastive Learning-based Style Distance Calculation**, 
 Vu Thi Ngoc Anh, Yoshiyuki Shoji , <u>Yuma Oe</u>, Huu Long Pham, Hiroaki Ohshima, Proc. of The 31st International Conference on Multimedia Modeling (MMM 2025), pp.101–114, 2025. [\[pdf\]](https://shoji-lab.jp/research_paper/mmm2024_Anh_LoRASearch.pdf){:target="_blank"}
 
+## 論文誌論文（査読付き）
+1. **画像の生成とキャプショニングの粒度差に注目した生成的アノテーションによるシチュエーションからのコーディネート検索**, 大江 優真, 田中 克己, 莊司 慶行, 情報処理学会論文誌データベース(IPSJ-TOD), 112号, 2026.
+
 ## 国内会議・ワークショップ等
 1. **目的ファッションスタイルを入力とするアイテム置換によるコーディネート変更推薦**, <u>大江 優真</u>, 莊司 慶行, 第183回 データベースとデータサイエンス研究会（SIG-DBS）＠WebDB夏のワークショップ2026, to appear, 2026.
 
