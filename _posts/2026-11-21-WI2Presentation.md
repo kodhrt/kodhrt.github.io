@@ -6,7 +6,7 @@ layout: single  # または post としてもOK。テーマの設定に合わせ
 excerpt: "ARG 第22回Webインテリジェンスとインタラクション研究会"
 author_profile: true
 header:
-  og_image: /assets/img/posts/20260923/present_Oe.webp
+  og_image: /assets/img/posts/20261121/present.webp
 related:
     - /2025/03/05/DEIM2025/
     - /2025/03/06/DEIM2025Awards
