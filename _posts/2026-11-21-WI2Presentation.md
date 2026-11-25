@@ -10,7 +10,7 @@ header:
 related:
     - /2025/03/05/DEIM2025/
     - /2025/03/06/DEIM2025Awards
-description: "東海関西データベースワークショップ2026、DBWS、DBWS2026、大江優真、大江 優真、Yuma Oe"
+description: "大江優真, 大江 優真, Yuma Oe, WI2研究会, ARG-SIG-WI2, WI2"
 ---
 
 お久しぶりです。大江です。
