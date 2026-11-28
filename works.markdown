@@ -98,7 +98,6 @@ IR Reading 2024秋の公式サイトは[こちら](https://sigirtokyo.github.io/
     - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/5810/){:target="_blank"}
 
 3. ### DBWS2026受賞
-    - https://www.inf.shizuoka.ac.jp/news/5841/
     - DBWS2026公式サイト [リンク](https://dbws2026.github.io/awards/){:target="_blank"}
     - 静岡大学情報学部公式サイト [リンク](){:target="_blank"}
 
