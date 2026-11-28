@@ -41,41 +41,46 @@ WEARの新機能開発に従事
 
 
 ## 外部の勉強会・講演
-1. ### 東海関西データベースワークショップ2026（DBWS2026）
+1. ### IR Reading 2026秋
+2026年11月
+- IR Reading 2026秋の公式サイトは[こちら](https://sigirtokyo.github.io/post/2026-11-28-irreading_2026fall/){:target="_blank"}。  
+- 参加レポートは[こちら](https://kodhrt.github.io/IRReading2026Autumn)。
+
+2. ### 東海関西データベースワークショップ2026（DBWS2026）
 2026年9月  
 目的ファッションスタイルを入力とするアイテム置換によるコーディネート変更推薦  
 - 公式サイトは[こちら](https://dbws2026.github.io/){:target="_blank"}
 - 参加レポートは[こちら](https://kodhrt.github.io/DBWS2026/){:target="_blank"}
 
-2. ### IR Reading 2026春
+3. ### IR Reading 2026春
 2026年5月
 - IR Reading 2026春の公式サイトは[こちら](https://sigirtokyo.github.io/post/2026-05-30-irreading_2026spring/){:target="_blank"}。  
 - 参加レポートは[こちら](https://kodhrt.github.io/IRReading2026Spring)。
 
-3. ### IR Reading 2025秋
+4. ### IR Reading 2025秋
 2025年11月
 - IR Reading 2025秋の公式サイトは[こちら](https://sigirtokyo.github.io/post/2025-11-15-irreading_2025fall/){:target="_blank"}。  
 - 参加レポートは[こちら](https://kodhrt.github.io/IRReading2025Autumn/)。
 
-4. ### WebDB夏のワークショップ2025 オーガナイズドセッション「ファッション×情報学」
+5. ### WebDB夏のワークショップ2025 オーガナイズドセッション「ファッション×情報学」
 2025年9月  
 詳しくは[こちら](https://kodhrt.github.io/WebDB2025fashion/)
 
-5. ### 東海関西データベースワークショップ2025（DBWS2025） 
+6. ### 東海関西データベースワークショップ2025（DBWS2025） 
 2025年9月  
 シチュエーションをクエリとするコーディネート推薦  
 - 公式サイトは[こちら](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E3%83%9B%E3%83%BC%E3%83%A0){:target="_blank"}  
 - 参加レポートは[こちら](https://kodhrt.github.io/DBWS2025/)  
 
-6. ### IR Reading 2025春
+7. ### IR Reading 2025春
 2025年5月  
 - IR Reading 2025春の公式サイトは[こちら](https://sigirtokyo.github.io/post/2025-05-24-irreading_2025spring/){:target="_blank"}。  
 - 参加レポートは[こちら](https://kodhrt.github.io/IRReading2025Spring/)。
 
-7. ### 株式会社ZOZONEXT 招待講演  
+8. ### 株式会社ZOZONEXT 招待講演  
 2025年4月
 
-8. ### IR Reading 2024秋
+9. ### IR Reading 2024秋
 2024年11月  
 IR Reading 2024秋の公式サイトは[こちら](https://sigirtokyo.github.io/post/2024-11-09-irreading_2024fall/){:target="_blank"}。
 
