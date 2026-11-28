@@ -89,6 +89,46 @@ IR Reading 2024秋の公式サイトは[こちら](https://sigirtokyo.github.io/
 2026年5月  
 リンク: [https://github.com/shoji-lab/OOTM_dataset_Oe_v1](https://github.com/shoji-lab/OOTM_dataset_Oe_v1){:target="_blank"}
 
+## 外部サイト掲載
+1. ### ARG WI2研究会受賞
+    - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/6005/){:target="_blank"}
+
+2. ### WebDB2026受賞
+    - 情報処理学会公式サイト [リンク](https://www.ipsj.or.jp/award/dbs-award1.html){:target="_blank"}
+    - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/5810/){:target="_blank"}
+
+3. ### DBWS2026受賞
+    - https://www.inf.shizuoka.ac.jp/news/5841/
+    - DBWS2026公式サイト [リンク](https://dbws2026.github.io/awards/){:target="_blank"}
+    - 静岡大学情報学部公式サイト [リンク](){:target="_blank"}
+
+4. ### DBWS2026開催・運営
+    - DBWS2026公式サイト [リンク](https://dbws2026.github.io/){:target="_blank"}
+    - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/5791/){:target="_blank"}
+
+5. ### MIRU2026受賞
+    - MIRU2026公式サイト [リンク](https://miru-committee.github.io/miru2026/author/award/){:target="_blank"}
+    - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/5698/){:target="_blank"}
+
+6. ### DEIM2026受賞
+    - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/5537/){:target="_blank"}
+
+7. ### WebDB2025受賞
+    - 情報処理学会公式サイト [リンク](https://www.ipsj.or.jp/award/dbs-award1.html){:target="_blank"}
+    - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/4611/){:target="_blank"}
+
+8. ### DBWS2025
+    - DBWS2025公式サイト [リンク](https://sites.google.com/mil.doshisha.ac.jp/dbws-2025/%E5%8F%97%E8%B3%9E?authuser=0){:target="_blank"}
+    - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/4577/){:target="_blank"}
+
+9. ### DEIM2025受賞記事1
+    - DEIM2025公式サイト [リンク](https://pub.confit.atlas.jp/ja/event/deim2025/content/awards){:target="_blank"} 
+    - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/3910/){:target="_blank"}
+
+10. ### DEIM2025受賞記事2
+    - DEIM2025公式サイト [リンク](https://pub.confit.atlas.jp/ja/event/deim2025/content/awards){:target="_blank"}
+    - 静岡大学情報学部公式サイト [リンク](https://www.inf.shizuoka.ac.jp/news/3885/){:target="_blank"}
+
 ## TA（Teaching Assistant）
 1. ### 情報システム基礎演習 （Information Systems Fundamental Seminar）
 2026年4月  
